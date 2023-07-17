@@ -1,6 +1,6 @@
 # ICICI-Bank-Stock-Market-Analysis
 
-Overview
+#Overview#
 This project is an algorithmic trading application developed by Gowtham to perform stock market analysis on ICICI Bank. It stores real-time stock market data of ICICI Bank for each day of the week, from 11.15 AM to 2.15 PM, with a 15-minute delay using the Yahoo Finance library. The data is stored in a MongoDB database.
 
 Requirements
